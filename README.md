@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raiden Villapando</h1>
-<h3 align="center">BSIT student experienced in Front-End Development, Python, C++, Java, Flutter/Dart, with basic networking knowledge and a strong desire to learn new skills and technologies</h3>
+<h3 align="center">BSIT student experienced in Web Development, Python, C++, Java, Flutter/Dart, with basic networking knowledge and a strong desire to learn new skills and technologies</h3>
 
 - 👨‍💻 All of my projects are available at [https://hydro2202.github.io/Portfolio/Portfolio.html](https://hydro2202.github.io/Portfolio/Portfolio.html)
 
